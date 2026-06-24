@@ -11,7 +11,9 @@
         "main.ts",
         "README.md",
         "custom.ts",
-        "enums.ts"
+        "enums.ts",
+        "_locales/fr/A4-DFR1216-jsdoc-strings.json",
+        "_locales/fr/A4-DFR1216-strings.json"
     ],
     "testFiles": [
         "test.ts"
