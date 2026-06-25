@@ -18,7 +18,7 @@
   "RGBIndex.Both|block": "les deux",
   "RGBIndex.RGB0|block": "RGB0",
   "RGBIndex.RGB1|block": "RGB1",
-  "a4_DFR1216.analogRead|block": "écrire sur la branche analogique %io",
+  "a4_DFR1216.analogRead|block": "lire sur la branche analogique %io",
   "a4_DFR1216.clearRGB|block": "éteindre RGB",
   "a4_DFR1216.digitalWrite|block": "écrire sur la broche digital %io à %state",
   "a4_DFR1216.distance|block": "distance (cm)",
