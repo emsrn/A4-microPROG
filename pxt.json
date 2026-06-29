@@ -1,5 +1,5 @@
 {
-    "name": "A4-DFR1216",
+    "name": "A4-microPROG",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -13,8 +13,8 @@
         "README.md",
         "custom.ts",
         "enums.ts",
-        "_locales/fr/A4-DFR1216-jsdoc-strings.json",
-        "_locales/fr/A4-DFR1216-strings.json"
+        "_locales/fr/A4-microPROG-jsdoc-strings.json",
+        "_locales/fr/A4-microPROG-strings.json"
     ],
     "testFiles": [
         "test.ts"
