@@ -1,5 +1,5 @@
 
-> Ouvrir cette page à [https://emsrn.github.io/a4-dfr1216/](https://emsrn.github.io/a4-dfr1216/)
+> Ouvrir cette page à [[https://emsrn.github.io/a4-dfr1216/](https://emsrn.github.io/a4-dfr1216/)](https://github.com/emsrn/A4-microPROG)
 
 ## Utiliser comme extension
 
@@ -8,7 +8,7 @@ Ce dépôt peut être ajouté en tant qu'**extension** dans MakeCode.
 * ouvrir [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * cliquez sur **Nouveau projet**
 * cliquez sur **Extensions** dans le menu engrenage
-* recherchez **https://github.com/emsrn/a4-dfr1216** et importez
+* recherchez **https://github.com/emsrn/A4-microPROG** et importez
 
 ## Éditer ce projet
 
@@ -16,7 +16,7 @@ Ce dépôt peut être ajouté en tant qu'**extension** dans MakeCode.
 
 * ouvrir [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * cliquez sur **Importer** puis cliquez sur **Importer l'URL **
-* collez **https://github.com/emsrn/a4-dfr1216** et cliquez sur importer
+* collez **https://github.com/emsrn/A4-microPROG** et cliquez sur importer
 
 #### Métadonnées (utilisées pour la recherche, le rendu)
 
