@@ -1,5 +1,5 @@
 
-> Ouvrir cette page à [[https://emsrn.github.io/a4-dfr1216/](https://emsrn.github.io/a4-dfr1216/)](https://github.com/emsrn/A4-microPROG)
+> Ouvrir cette page à [(https://emsrn.github.io/a4-dfr1216/)](https://github.com/emsrn/A4-microPROG)
 
 ## Utiliser comme extension
 
