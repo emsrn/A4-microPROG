@@ -4,7 +4,7 @@ MakeCode extension for the **A4 programming station** based on the **DFR1216 exp
 
 ## Product page and teaching resources 
 
-Product information and educational resources are available on https://www.a4.fr/wiki/index.php?title=Portail_coulissant_(BE-APORT-COUL) 
+Product information and educational resources are available on (link?)
 
 Website: a4.fr
 
