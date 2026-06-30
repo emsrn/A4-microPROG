@@ -1,24 +1,41 @@
+## A4 Gate 
 
-> Ouvrir cette page à [(https://github.com/emsrn/A4-microPROG)](https://github.com/emsrn/A4-microPROG)
+MakeCode extension for the **A4 programming station** based on the **DFR1216 expansion board**, **BBC micro:bit**, and **Gravity LCD display**. 
 
-## Utiliser comme extension
+## Product page and teaching resources 
 
-Ce dépôt peut être ajouté en tant qu'**extension** dans MakeCode.
+Product information and educational resources are available on https://www.a4.fr/wiki/index.php?title=Portail_coulissant_(BE-APORT-COUL) 
 
-* ouvrir [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* cliquez sur **Nouveau projet**
-* cliquez sur **Extensions** dans le menu engrenage
-* recherchez **https://github.com/emsrn/A4-microPROG** et importez
+Website: a4.fr
 
-## Éditer ce projet
+Product sheet: 
 
-Éditer ce dépôt dans MakeCode.
+## Purpose 
 
-* ouvrir [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* cliquez sur **Importer** puis cliquez sur **Importer l'URL **
-* collez **https://github.com/emsrn/A4-microPROG** et cliquez sur importer
+This extension is designed for an educational programming station used in technology lessons. 
 
-#### Métadonnées (utilisées pour la recherche, le rendu)
+### Hardware required 
+* BBC micro:bit 
+* DFR1216 expansion board
+* modules connected to the pins 
 
+## API overview 
+
+
+## Example 
+
+```typescript
+basic.forever(function () {
+    if (a4_microPROG.readDigital(IO.C0) == 1) {
+        a4_microPROG.motorRun(MotorID.M1, MotorDirection.CW, 50)
+        a4_microPROG.setBrightness(255)
+    }
+})
+````
+
+## License 
+
+MIT
+
+## Supported targets 
 * for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
