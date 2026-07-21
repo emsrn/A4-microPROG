@@ -1,4 +1,4 @@
-//% weight=100 color=#0fbc11 icon="\uf085"
+//% weight=100 color=#0fbc11 icon="\uf085" block="A4 microPROG"
 namespace a4_microPROG{
 
     const I2C_ADDR = 0x33
