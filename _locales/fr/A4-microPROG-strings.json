@@ -34,7 +34,7 @@
   "a4_microPROG.setDualRGB|block": "fixer RGB0 à R %r0 G %g0 B %b0 et RGB1 à R %r1 G %g1 B %b1",
   "a4_microPROG.setServoAngle|block": "fixer servo %s à l'angle %angle",
   "a4_microPROG.stopAllMotors|block": "arrêter tous les moteurs",
-  "a4_microPROG|block": "A4_microPROG",
+  "a4_microPROG|block": "A4 microPROG",
   "{id:category}A4_microPROG": "A4_microPROG",
   "{id:group}GPIO": "GPIO",
   "{id:group}Infrared": "Infrarouge",
